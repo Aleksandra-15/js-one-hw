@@ -21,3 +21,7 @@ console.log(str.lenght);
 
 console.log(str.toUpperCase());
 
+
+const myNull = null;
+console.log(null);
+
