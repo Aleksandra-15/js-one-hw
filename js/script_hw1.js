@@ -47,3 +47,15 @@ if (answer){
 } else{
   alert ('Дію відмінено')
 } */
+
+
+/* const num  = prompt('Введіть 1 число');
+const prise = '';
+console.log(answer);
+const resalt = prompt('Введіть 2 число');
+const age ='';
+console.log(resalt);
+const answer = prompt('Відповідь');
+const total = prise + age;
+console.log(total); */
+
